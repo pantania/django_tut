@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/Users/jungsup/opt/anaconda3/envs/dtime/bin/python",
+    "python.linting.pycodestyleEnabled": true,
+    "editor.fontLigatures": true
+}
